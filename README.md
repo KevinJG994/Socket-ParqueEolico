@@ -1,6 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/KevinJG994/BreadcrumbsSocket-ParqueEolico
-) ![GitHub last commit](https://img.shields.io/github/last-commit/KevinJG994/BreadcrumbsSocket-ParqueEolico
-)
+![GitHub repo size](https://img.shields.io/github/repo-size/KevinJG994/BreadcrumbsSocket-ParqueEolico) ![GitHub last commit](https://img.shields.io/github/last-commit/KevinJG994/BreadcrumbsSocket-ParqueEolico)
  
 # Parque Eólico - Sistema Cliente-Servidor :nut_and_bolt: 
 
